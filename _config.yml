@@ -1,32 +1,28 @@
 menus:
 	- 
-		name: 首页
+		name: Home
 		link: /
 	- 
-		name: 分类
-		link: category/
-		target: true
+		name: Archive
+		link: archives/
 	- 
-		name: 开源项目
-		link: open-source/
-	- 
-		name: 留言板
-		link: message/
+		name: About
+		link: about/
 
 profile:
-	location: ChengDu, China
-	github: yumemor
+	location: Cluj-Napoca, Romania
+	github: calindotgabriel
 	#stackoverflow: 
 		#title: yumemor
 		#href: http://stackoverflow.com/users/5662132/yumemor
 	#organization: 组织/公司
 
 github: 
-	username: yumemor
+	username: calindotgabriel
   popular_repos: [hexo-theme-primer]
 
-comment:
-	duoshuo_username: 
+#comment:
+	#duoshuo_username: 
 	#disqus_username: 
 
 search: local #google｜local
